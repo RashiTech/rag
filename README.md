@@ -6,7 +6,7 @@
 
 Ecommerce review data in csv format with both structured and unstructured data.
 
-Data uploaded to postgresql with proper indexing.
+Data uploaded to postgresql with proper indexing using module psycopg2 and sqlalchemy.
 
 ![image](https://github.com/user-attachments/assets/3e2df134-b718-40c5-a13c-0e9ed7e82289)
 
