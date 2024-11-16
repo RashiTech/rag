@@ -1,0 +1,6 @@
+user_id,timestamp,location,product_id,product_name,price,review_text
+1,2024-11-01 10:00:00,New York,101,"Smartphone",599.99,"Great phone, very fast and sleek design!"
+2,2024-11-01 10:30:00,Los Angeles,102,"Laptop",999.99,"The laptop is good but a bit heavy."
+3,2024-11-02 09:45:00,Chicago,101,"Smartphone",599.99,"Battery life could be better."
+4,2024-11-02 11:00:00,San Francisco,103,"Tablet",299.99,"Excellent tablet for reading and web browsing."
+5,2024-11-03 08:30:00,Boston,104,"Smartwatch",199.99,"Not the best, but works well for basic functions."
